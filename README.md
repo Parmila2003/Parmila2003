@@ -33,7 +33,7 @@
 
 ### 🗄 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,nodejs" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Parmila2003&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Parmila2003&background=0d1117&border=30363d&stroke=30363d&ring=faa61a&fire=faa61a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 </p>
 
 ---
