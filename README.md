@@ -1,10 +1,7 @@
 
 <h1>Hi 👋, I'm Parmila</h1>
-🎓 Computer Science Undergraduate @ UCSC  <br>
-💻 Web Application Developer  <br>
-🎨 UI/UX Designer  <br>
 🚀 Passionate about building scalable systems & solving real-world problems  
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate+@+UCSC;Web+Application+Developer;UI/UX+Designer&left=true&width=600&height=40">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🎓Computer+Science+Undergraduate+@+UCSC;💻Web+Application+Developer;🎨UI/UX+Designer&left=true&width=600&height=30">
 
 ---
 
@@ -51,11 +48,11 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parmila2003&show_icons=true&theme=default" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmila2003&layout=compact" />
 </p>
 
 ---
@@ -71,8 +68,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email:parmila200369@gmail.com
-- 🌐 LinkedIn:https://www.linkedin.com/in/parmila-kanagarajah
+- 📧 Email: parmila200369@gmail.com
+- 🌐 LinkedIn:https: //www.linkedin.com/in/parmila-kanagarajah
 
 ---
 
