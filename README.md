@@ -48,11 +48,11 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Parmila2003&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parmila Kanagarajah&show_icons=true&theme=default" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmila2003&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmila Kanagarajah&layout=compact" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: parmila200369@gmail.com
-- 🌐 LinkedIn:https: //www.linkedin.com/in/parmila-kanagarajah
+- 🌐 LinkedIn: https://www.linkedin.com/in/parmila-kanagarajah
 
 ---
 
