@@ -1,40 +1,50 @@
 
-<h1>Hi 👋, I'm Parmila Kanagarajah</h1>
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate+@+UCSC;Web+Application+Developer;UI/UX+Designer&left=true&width=600&height=50">
-</p>
-<p>
-Computer Science UG Student @ UCSC | Web Application Developer | UI/UX Designer
-</p>
+<h1>Hi 👋, I'm Parmila</h1>
+🎓 Computer Science Undergraduate @ UCSC  
+💻 Web Application Developer  
+🎨 UI/UX Designer  
+🚀 Passionate about building scalable systems & solving real-world problems  
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate+@+UCSC;Web+Application+Developer;UI/UX+Designer&left=true&width=600&height=50">
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 
-- 💻 Currently building scalable web applications using PHP & MySQL
-- 🏗️ Strong understanding of MVC Architecture & OOP
-- 📅 Developed Smart Booking & Leave Conflict Management Systems
-- 🌱 Continuously learning Advanced Backend & System Design
-- 🎯 Goal: To become a Professional Software Engineer & 
+- 🌱 Currently exploring **Advanced JavaScript & Modern Web Architecture**
+- 🧠 Strong interest in **Backend Systems, Databases & System Design**
+- 🛠️ Building real-world projects like **Salon Management & Booking Systems**
+- 📚 Continuously improving knowledge in **Algorithms & Clean Code Practices & System Design & Advanced Backend**
+- 🎯 Goal: Become a highly skilled **Full Stack Software Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
-- PHP (Custom MVC)
-- MySQL
-- OOP Concepts
+### 👩‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,python,js" />
+</p>
 
-### 🎨 Frontend
-- HTML5
-- CSS3
-- JavaScript
+---
 
-### 🛠 Tools
-- Git & GitHub
-- XAMPP
-- VS Code
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+### 🗄 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
@@ -61,8 +71,8 @@ Computer Science UG Student @ UCSC | Web Application Developer | UI/UX Designer
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/parmila-kanagarajah
 - 📧 Email:parmila200369@gmail.com
+- 🌐 LinkedIn:https://www.linkedin.com/in/parmila-kanagarajah
 
 ---
 
