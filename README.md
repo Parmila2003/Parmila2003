@@ -1,8 +1,8 @@
 
 <h1>Hi 👋, I'm Parmila</h1>
-🚀 Passionate about building scalable systems & solving real-world problems  
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🎓Computer+Science+Undergraduate+@+UCSC;💻Web+Application+Developer;🎨UI/UX+Designer&left=true&width=600&height=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🎓Computer+Science+Undergraduate+@+UCSC;💻Web+Application+Developer;🎨UI/UX+Designer&left=true&width=600&height=40">
 
+🚀 Passionate about building scalable systems & solving real-world problems  
 ---
 
 ## 💻 About Me
