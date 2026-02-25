@@ -48,11 +48,15 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Parmila Kanagarajah&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parmila Kanagarajah&show_icons=true&theme=tokonight" />
 </p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmila Kanagarajah&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
