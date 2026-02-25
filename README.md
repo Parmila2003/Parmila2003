@@ -1,10 +1,10 @@
 
 <h1>Hi 👋, I'm Parmila</h1>
-🎓 Computer Science Undergraduate @ UCSC  
-💻 Web Application Developer  
-🎨 UI/UX Designer  
+🎓 Computer Science Undergraduate @ UCSC  <br>
+💻 Web Application Developer  <br>
+🎨 UI/UX Designer  <br>
 🚀 Passionate about building scalable systems & solving real-world problems  
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate+@+UCSC;Web+Application+Developer;UI/UX+Designer&left=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate+@+UCSC;Web+Application+Developer;UI/UX+Designer&left=true&width=600&height=40">
 
 ---
 
