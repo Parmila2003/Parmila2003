@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Enthusiast;MVC+Architecture+Lover&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer Science+Student@UCSC;Web+Developer;Designer&center=true&width=500&height=50">
 </p>
 <h1 align="center">Hi 👋, I'm Parmila Kanagarajah</h1>
 <h3 align="center">Computer Science UG Student @ UCSC | Web Developer | Designer </h3>
