@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer Science+Student@UCSC;Web+Developer;Designer&center=true&width=500&height=50">
+
+<h1>Hi 👋, I'm Parmila Kanagarajah</h1>
+<br>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate+@+UCSC;Full+Stack+Web+Developer;Backend+Enthusiast;UI/UX+Designer&center=true&width=600&height=50">
 </p>
-<h1 align="center">Hi 👋, I'm Parmila Kanagarajah</h1>
-<h3 align="center">Computer Science UG Student @ UCSC | Web Developer | Designer </h3>
+<br>
+<p>
+Computer Science UG Student @ UCSC | Web Application Developer | UI/UX Designer
+</p>
+
 
 ---
 
